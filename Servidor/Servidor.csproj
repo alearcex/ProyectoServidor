@@ -46,16 +46,37 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Logica\Cla_Servidor.cs" />
-    <Compile Include="Presentacion\Principal.cs">
+    <Compile Include="Forms\FrmMantenimeintoTerminales.cs" />
+    <Compile Include="FrmMantenimientoViajes.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Presentacion\Principal.Designer.cs">
+    <Compile Include="FrmMantenimientoViajes.Designer.cs">
+      <DependentUpon>FrmMantenimientoViajes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTerminales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTerminales.Designer.cs">
+      <DependentUpon>FrmTerminales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Logica\Cla_Servidor.cs" />
+    <Compile Include="Models\Cla_Terminal.cs" />
+    <Compile Include="Models\Cla_Viaje.cs" />
+    <Compile Include="Presentacion\Program.cs" />
+    <Compile Include="Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.Designer.cs">
       <DependentUpon>Principal.cs</DependentUpon>
     </Compile>
-    <Compile Include="Presentacion\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Presentacion\Principal.resx">
+    <EmbeddedResource Include="FrmMantenimientoViajes.resx">
+      <DependentUpon>FrmMantenimientoViajes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTerminales.resx">
+      <DependentUpon>FrmTerminales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
       <DependentUpon>Principal.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
