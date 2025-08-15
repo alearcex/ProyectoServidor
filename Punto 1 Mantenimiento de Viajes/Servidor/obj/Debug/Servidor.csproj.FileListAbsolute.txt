@@ -1,0 +1,13 @@
+C:\Users\axelb\Downloads\ProyectoServidor-main\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\axelb\Downloads\ProyectoServidor-main\Servidor\bin\Debug\Servidor.exe
+C:\Users\axelb\Downloads\ProyectoServidor-main\Servidor\bin\Debug\Servidor.pdb
+C:\Users\axelb\Downloads\ProyectoServidor-main\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+C:\Users\axelb\Downloads\ProyectoServidor-main\Servidor\obj\Debug\Servidor.FrmMantenimientoViajes.resources
+C:\Users\axelb\Downloads\ProyectoServidor-main\Servidor\obj\Debug\Servidor.FrmTerminales.resources
+C:\Users\axelb\Downloads\ProyectoServidor-main\Servidor\obj\Debug\Servidor.Principal.resources
+C:\Users\axelb\Downloads\ProyectoServidor-main\Servidor\obj\Debug\Servidor.Properties.Resources.resources
+C:\Users\axelb\Downloads\ProyectoServidor-main\Servidor\obj\Debug\Servidor.csproj.GenerateResource.cache
+C:\Users\axelb\Downloads\ProyectoServidor-main\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\axelb\Downloads\ProyectoServidor-main\Servidor\obj\Debug\Servidor.exe
+C:\Users\axelb\Downloads\ProyectoServidor-main\Servidor\obj\Debug\Servidor.pdb
+C:\Users\axelb\Downloads\ProyectoServidor-main\Servidor\obj\Debug\Servidor.exe.config
